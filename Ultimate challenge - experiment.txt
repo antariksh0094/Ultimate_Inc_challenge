@@ -1,0 +1,19 @@
+ULTIMATE CHALLENGE
+
+2. Practical Experiment
+
+First, we need to get the list of which drivers are active in which city
+
+- key measure of success will be: increase in the number of toll passes by driver partners
+
+- increased trips by drivers in Metrolpolis, who were earlier in Gotham. We need to see past and current metrolpolis trip data to check this. If a driver who was rarely present in metrolpolis trips earlier, is now making frequent trips in metrolpolis, then our experiement has worked.
+
+- We also need to check that this trend is reflected for a large number of drivers. If only a few drivers follow this trend, the experiement has not worked.
+
+- We can also check tbe vehicle numbers that pass through toll gates. If we see that there is a large increase in vehicles from Gotham to metrolpolis and vice versa, then our experiment has worked.
+
+Implementation
+
+- In the day, check the number of active drivers of metrolpolis, who are driving in Gotham. Compare this number with the earlier figures (before experiment)
+- repeat this for metropolis at night
+- find out the statistical significance of the increase in number of drivers
